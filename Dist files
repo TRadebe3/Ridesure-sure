@@ -1,0 +1,15 @@
+javaScript Chunks)
+● Main Bundle: index-DSdvhNMM.js (291.87 KB) - Core application logic
+● Supabase: supabase-vendor-h54HbStR.js (123.47 KB) - Database integration
+● Animations: animation-vendor-BLFeT57w.js (114.26 KB) - Framer Motion
+● Ride Features: ride-pages-4bFBV9Sg.js (92.64 KB) - Booking & tracking UI
+iComponents: ui-vendor-DduYezHP.js (87.88 KB) - shadcn/ui library
+● Forms: form-vendor-DO01RvFH.js (76.65 KB) - React Hook Form + Zod
+● Utilities: utility-pages-dkl1-m6P.js (60.69 KB) - Helper pages
+● Icons: icons-vendor-D0JZ4UmB.js (45.01 KB) - Lucide React icons
+● React Core: react-vendor-DyY3BIuh.js (44.68 KB) - React 19
+● Auth Pages: auth-pages-BMjOm8g9.js (41.21 KB) - Login/signup
+● Dashboard: dashboard-pages-C2BA0NgE.js (40.42 KB) - Admin & user dashboards
+● React Query: query-vendor-BvGYHomV.js (37.18 KB) - State management
+● UI Components: ui-components-CYpPlcwn.js (30.80 KB) - Custom components
+● UI Components: ui-vendor-DduYezHP.js (87.88 KB) 
