@@ -1,0 +1,12 @@
+Root Level Folders:
+
+src/ - All source code (components, pages, hooks, etc.)
+dist/ - Production build ready for deployment
+public/ - Static assets and icons
+.github/ - GitHub workflows
+📁 Key Files:
+
+vercel.json - Fixed Vercel configuration
+package.json - Dependencies and scripts
+index.html - Main HTML file
+Various config files (TypeScript, Tailwind, etc.)
