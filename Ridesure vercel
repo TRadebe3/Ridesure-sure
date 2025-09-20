@@ -1,0 +1,6 @@
+index.html (main app file)
+assets/ folder (all CSS and JavaScript files)
+icons/ folder (app icons)
+manifest.json (PWA configuration)
+sw.js (service worker)
+_redirects (routing configuration)
